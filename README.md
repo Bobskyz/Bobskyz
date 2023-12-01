@@ -18,7 +18,7 @@
 ## 💻 Skills :
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/c.svg" alt="c" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/cpp.svg" alt="c++" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px">
 </p>
 
 ---
