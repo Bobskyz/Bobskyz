@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&weight=100&size=50&duration=2000&pause=1000&color=00FFFF&vCenter=true&random=false&width=1000&height=100&lines=Hi+There!;Let+me+Introduce+Myself;My+Name+is+Dafin+Surya;I+am+a+Beginner+Programmer" alt="Typing SVG" /></a>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
 ---
 # 💫 About Me :
