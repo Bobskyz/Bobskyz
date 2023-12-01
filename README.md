@@ -7,20 +7,9 @@
 <p align="center">
   Hi, I'm Dafin Surya, Software Developer from Indonesia
   <br>
-  <br>
-  🔬 I'm currently studying at Universitas Negeri Padang, Department of Elektronics
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  📚 I’m currently learning c and c++ language program
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
