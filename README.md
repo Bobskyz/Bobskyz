@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Dafin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
- [![](https://visitcount.itsvg.in/api?id=Bobskyz&icon=5&color=2)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
  
 ---
 # 💫 About Me :
