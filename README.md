@@ -14,5 +14,9 @@
 - 🌱 I’m currently learning C and C++ program language
 - 📫 How to reach me ...
 
+### 📚 Languages :
+![](https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=C&logoColor=blue)
+![](https://img.shields.io/badge/C++-00AAFF?style=for-the-badge&logo=C++&logoColor=white)
+
 - ### 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1051134719414243358) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/dafinsurya.dafin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dafinsurya/)
