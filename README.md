@@ -4,9 +4,9 @@
 </p>
 
 ---
-<p align="left">
-  <img src= "https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif">
-</p>
+<img src="https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif" align="right" width="200">
+<p align="right">
+<p/>
 
 ### 🌠 About Me :
 - 👋 Hi, I’m Dafin Surya
