@@ -10,7 +10,7 @@
 
 ### 🌠 About Me :
 - 👋 Hi, I’m Dafin Surya
-- 🌱 I’m currently learning C and C++ program language
+- 🌱 I’m currently learning C and C++ program language and also studying at Padang State University
 - 📫 How to reach me **dafinsurya111@gmail.com**
 
 ### 😄 Fun-fact :
