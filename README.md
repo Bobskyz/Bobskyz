@@ -14,6 +14,10 @@
 - 🌱 I’m currently learning C and C++ program language
 - 📫 How to reach me **dafinsurya111@gmail.com**
 
+### 💻 Fun-fact:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### 📚 Languages :
 ![](https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=C&logoColor=blue)
 ![](https://img.shields.io/badge/C++-0055FF?style=for-the-badge&logo=C++&logoColor=white)
