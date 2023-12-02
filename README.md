@@ -12,7 +12,7 @@
 - 👋 Hi, I’m Dafin Surya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C and C++ program language
-- 📫 How to reach me ...
+- 📫 How to reach me **dafinsurya111@gmail.com**
 
 ### 📚 Languages :
 ![](https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=C&logoColor=blue)
