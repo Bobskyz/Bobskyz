@@ -10,7 +10,6 @@
 
 ### 🌠 About Me :
 - 👋 Hi, I’m Dafin Surya
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C and C++ program language
 - 📫 How to reach me **dafinsurya111@gmail.com**
 
