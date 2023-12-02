@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header"/>
+  <img src="https://vbr.wocr.tk/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 </p>
 
 ---
