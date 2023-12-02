@@ -3,7 +3,7 @@
 </p>
 
 ---
-<p align="center">
+<p align="left">
   <img src= "https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif">
 </p>
 
