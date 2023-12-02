@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning C and C++ program language
 - 📫 How to reach me **dafinsurya111@gmail.com**
 
-### 💻 Fun-fact:
+### 😄 Fun-fact:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
