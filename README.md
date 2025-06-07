@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi+There!&height=150&section=header"/>
   <img src="https://vbr.wocr.tk/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 </p>
-
----
-<img src="https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif  " align="left" width="200">
-<p align="left">
-<p/>
   
 # 🌠 About Me :
 - 👋 Hi, I’m Dafin Surya
