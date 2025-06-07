@@ -4,7 +4,7 @@
 
 # 🌠 About Me :
 - 👋 Hi, I’m Dafin Surya
-- 🌱 I’m currently learning C and C++ program language and also studying at Padang State University
+- 🌱 I’m currently learning C, C++, or more programming language and also studying at Padang State University
 - 👀 I'm Interested in making some programs and playing games
 - 📫 How to reach me **dafinsurya111@gmail.com**
 
