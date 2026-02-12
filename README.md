@@ -8,6 +8,14 @@
 - 👀 I'm Interested in making some programs and playing games
 - 📫 How to reach me **dafinsurya111@gmail.com**
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Bobskyz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bobskyz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bobskyz&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ## 😄 Fun-fact :
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
